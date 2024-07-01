@@ -31,6 +31,12 @@ To compile the program, use any standard C compiler. For example, with GCC on Un
 ```bash
 gcc Final_Version.c -o Final_Version
 ```
+## Screenshots 📷
+
+![image](https://github.com/SalwaSh/CS321-OS-Scheduling-Algorithms/assets/97047182/d98ce495-e404-42de-85d0-cefe248ad662)
+
+![image](https://github.com/SalwaSh/CS321-OS-Scheduling-Algorithms/assets/97047182/8cc282f8-db4a-4bc6-9d87-4b646fa386e5)
+
 
 ## Contributors ✍️
 
